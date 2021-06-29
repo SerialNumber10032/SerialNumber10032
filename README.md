@@ -1,0 +1,4 @@
+- Hi, I’m @SerialNumber10032
+- I’m interested in Big Data System
+- I’m currently learning Spark, Kafka and Hadoop
+- Looking for DevOps positions 
